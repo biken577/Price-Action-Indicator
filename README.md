@@ -10,4 +10,7 @@ Let me tell you that there is no holy grail in trading. All you do is take tradi
 
 The indicator works for all product that you can find on the trading view. The products can be Stocks, Forex Pairs or Crypto Currencies. 
 
-Based on the backtesting I have done the indicator works best under 5 mins or 15 mins timeframe.
+Based on the backtesting I have done the indicator works best 5 mins or above.
+
+![image](https://github.com/biken577/Price-Action-Indicator/assets/43915123/954ff12e-b886-491e-98e3-c9d1f4cd9200)
+
