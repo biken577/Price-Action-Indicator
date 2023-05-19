@@ -10,7 +10,7 @@
 
 <p>The indicator works for all product that you can find on the trading view. The products can be Stocks, Forex Pairs or Crypto Currencies.</p>
 
-<p>Based on the backtesting I have done the indicator works best on 5 mins or above.</p>
+<p>Based on the backtesting that I have done the indicator works best on 5 mins or above.</p>
 
 ![image](https://github.com/biken577/Price-Action-Indicator/assets/43915123/9bbaaa96-fdea-4e90-ad08-854b4ecdb0fe)
 
