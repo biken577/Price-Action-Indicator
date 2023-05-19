@@ -12,5 +12,6 @@ The indicator works for all product that you can find on the trading view. The p
 
 Based on the backtesting I have done the indicator works best 5 mins or above.
 
-![image](https://github.com/biken577/Price-Action-Indicator/assets/43915123/954ff12e-b886-491e-98e3-c9d1f4cd9200)
+![image](https://github.com/biken577/Price-Action-Indicator/assets/43915123/9bbaaa96-fdea-4e90-ad08-854b4ecdb0fe)
+
 
