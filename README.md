@@ -6,7 +6,7 @@
 
 
 
-<p>Let me tell you that there is no holy grail in trading. All you do is take trading set up with higher probability of winning. That's what exactly this indicator will do it for you i.e. search for buy and sell opportunity with higher probability. This system has been backtested and has been able to provide consitent return in the past data.</p>
+<p>Let me tell you that there is no holy grail in trading. All you do is take trading set up with higher probability of winning. That's what exactly this indicator will do it for you i.e. search for buy and sell opportunity with higher probability. This system has been backtested and has been able to provide consistent return in the past data.</p>
 
 <p>The indicator works for all product that you can find on the trading view. The products can be Stocks, Forex Pairs or Crypto Currencies.</p>
 
