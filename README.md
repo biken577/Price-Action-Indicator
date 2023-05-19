@@ -1,4 +1,4 @@
-# Automated Price Action Indicator
+<h1># Automated Price Action Indicator</h1>
 
 * Price Action Indicator is an automated price action baseed indicator that is available in TradingView platform. It operates well both on free and paid TradingView Account.
 
