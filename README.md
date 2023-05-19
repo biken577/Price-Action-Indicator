@@ -1,4 +1,4 @@
-# Price-Action-Indicator
+#Price-Action-Indicator
 Price Action Indicator is an automated price action baseed indicator that is available in TradingView platform. It operates well both on free and paid TradingView Account.
 
 The indicator generates buy and sell signal, analyzes the volume through colors, provides us with multiple targets and plots Point of Control line for a day.
